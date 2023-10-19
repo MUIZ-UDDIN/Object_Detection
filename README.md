@@ -1,10 +1,10 @@
 Object-detection-using-YOLOv5-module-project
 Contact Information:
-• Name: Farzain
+• Name: MUIZ UD DIN
 
-• Email: Farzainsabit04@gmail.com
+• Email: muizdin143@gmail.com
 
-• GitHub Profile: https://github.com/Farzain-Sabit
+• GitHub Profile: https://github.com/mueez-uddin
 
 Introduction:
 In this group project, we had develop an object detection model for identifying various road conditions and turns in images captured on roads in Gilgit. The primary goal is to enable the model to detect right turns, left turns, straight roads, and unexpected road conditions such as landslides. This project is designed to provide hands-on experience in data gathering, data labeling, and the implementation of object detection models, specifically YOLO (You Only Look Once)
